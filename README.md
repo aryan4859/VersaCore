@@ -1,4 +1,4 @@
 # VersaCore
 <p align="center">
-    A batteries included framework for modern cross-platform C++ applications
+    A Comprehensive Framework Empowering Modern Cross-Platform Development in C++.
 </p>
